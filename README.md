@@ -2,8 +2,8 @@
 This project demonstrates the Fundamentls of Object Oriented Programming.
 
 -------------------------- OVERVIEW of the PROJECT  with the defination of each pillar of OOPs -------------------------------
-Classes:
 
+Classes:
 Vehicle: This is the base class representing a generic vehicle. It contains common attributes and methods shared by all vehicles, such as vehicle ID, model, manufacturer, rental cost, etc.
 1- Car: Inherits from Vehicle class. It adds specific attributes and methods relevant to cars, such as number of seats, fuel type, etc.
 2- Bike: Inherits from Vehicle class. It adds specific attributes and methods relevant to bikes, such as engine capacity, type of bike, etc.
